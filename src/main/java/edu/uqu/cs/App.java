@@ -90,7 +90,10 @@ public class App{
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a string >> ");
         phoneKeypad(scanner.nextLine());
+          
 
+
+        
     }
 
 }
